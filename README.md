@@ -87,17 +87,17 @@ Simply clone the repo cd into the right directory and run 'main.py' using the be
 
 7. Run the Script `main_training.ipynb` to train on data collected from JetRat. 
    ```sh 
-   conda install pytorch torchvision torchaudio cpuonly -c pytorch
+   jupyter-notebook main_training.ipynb`
    ```
 
 8. Optional - Run `sim_training.py` to train model on data collected from simulator  
     ```sh 
-    python main.py
+    jupyter-notebook main.ipynb
     ```
 
 9.  Optional - Run `sweep_test.py` to generate accuracy and loss for all parameters. This uses [Weights & Biases](https://wandb.ai/site). 
     ```sh
-    python sweep_test.py`
+    jupyter-notebook sweep_test.ipynb`
     ```
 
 
