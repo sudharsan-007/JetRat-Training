@@ -21,7 +21,7 @@ This is a repository containing the code for Jetrat Training. [JetRat](https://g
 Training of the model can be done using this directory. Training code has been tested in Mac and Windows PC. 
 
 
-### Short Video of Jetrat (enjoy). 
+### Short Preview of Jetrat (enjoy). 
 
 
 https://user-images.githubusercontent.com/55453134/218347405-dee79ea0-1b13-40db-bf95-1e4a540c3db0.mov
