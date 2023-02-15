@@ -90,12 +90,12 @@ Simply clone the repo cd into the right directory and run 'main.py' using the be
    jupyter-notebook main_training.ipynb`
    ```
 
-8. Optional - Run `sim_training.py` to train model on data collected from simulator  
+8. Optional - Run `sim_training.ipynb` to train model on data collected from simulator  
     ```sh 
     jupyter-notebook main.ipynb
     ```
 
-9.  Optional - Run `sweep_test.py` to generate accuracy and loss for all parameters. This uses [Weights & Biases](https://wandb.ai/site). 
+9.  Optional - Run `sweep_test.ipynb` to generate accuracy and loss for all parameters. This uses [Weights & Biases](https://wandb.ai/site). 
     ```sh
     jupyter-notebook sweep_test.ipynb`
     ```
