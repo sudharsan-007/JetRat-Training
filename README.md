@@ -60,7 +60,7 @@ Simply clone the repo cd into the right directory and run 'main.py' using the be
    git clone https://github.com/sudharsan-007/JetRat-Training.git
    ```
 
-2. cd into the directory RL-DQN-Snake-Game
+2. cd into the directory
    ```sh
    cd JetRat-Training
    ```
